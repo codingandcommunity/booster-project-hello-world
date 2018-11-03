@@ -10,6 +10,8 @@ This repository is not meant to stand alone. It is consumed by the Booster plugi
 
 ## Getting Started
 
+To get started working on this repository:
+
 1. Clone the GitHub repository
 1. Start editing the code
 
@@ -24,3 +26,9 @@ This isn't a standard repository. It must be formatted in a very specific way fo
 For more details on how this process works, see the Atom plugin repository.
 
 More documentation will be added here as the actual formatting is finalized.
+
+### Past Contributors ###
+
+Add your name here if you're committing changes to this repository.
+
+- [Jake Billings](https://jakebillings.com
