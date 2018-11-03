@@ -31,4 +31,4 @@ More documentation will be added here as the actual formatting is finalized.
 
 Add your name here if you're committing changes to this repository.
 
-- [Jake Billings](https://jakebillings.com
+- [Jake Billings](https://jakebillings.com)
